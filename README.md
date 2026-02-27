@@ -50,7 +50,7 @@ AI-powered semantic search over Steam game datasets.
 🔗 GitHub: (Add repo link)
 
 ---
-"""
+
 ### 📦 Smart Demand Optimization System  
 End-to-end demand forecasting & inventory optimization pipeline.
 
@@ -68,7 +68,7 @@ Real-time geospatial asset mapping & analytics platform.
 - Authentication & service integration
 - Weather alert pipelines
 - Analytics dashboard system
-"""
+
 ---
 
 ## ⚙️ Technical Expertise
