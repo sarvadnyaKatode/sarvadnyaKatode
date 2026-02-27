@@ -97,6 +97,12 @@ QGIS | Geospatial Data Processing
   <img src="https://streak-stats.demolab.com?user=sarvadnyaKatode&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadnyaKatode&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadnyaKatode&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 ---
 
 ## 📚 Currently Exploring
