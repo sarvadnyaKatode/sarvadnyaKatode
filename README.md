@@ -93,7 +93,7 @@ GIS Processing • Spatial Data Engineering
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadnyaKatode&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sarvadnyaKatode&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
