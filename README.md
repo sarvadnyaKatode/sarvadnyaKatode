@@ -90,11 +90,11 @@ QGIS | Geospatial Data Processing
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvadnyaKatode&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvadnyaKatode&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarvadnyaKatode&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=sarvadnyaKatode&theme=github-dark&hide_border=true" />
 </p>
 
 ---
