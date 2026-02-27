@@ -49,25 +49,6 @@ AI-powered semantic search over Steam game datasets.
 🌐 Live: https://steamsage.vercel.app/  
 🔗 GitHub: (Add repo link)
 
----
-
-### 📦 Smart Demand Optimization System  
-End-to-end demand forecasting & inventory optimization pipeline.
-
-- Data ingestion → transformation → forecasting → optimization
-- Python + SQL + Airflow orchestration
-- Time-series modeling
-- Pipeline-driven system design
-
----
-
-### 🌍 GIS-Based Disaster & Insurance Assistance System  
-Real-time geospatial asset mapping & analytics platform.
-
-- Spatial data processing
-- Authentication & service integration
-- Weather alert pipelines
-- Analytics dashboard system
 
 ---
 
