@@ -47,7 +47,7 @@ AI-powered semantic search over Steam game datasets.
 - End-to-end deployment
 
 🌐 Live: https://steamsage.vercel.app/  
-🔗 GitHub: (Add repo link)
+🔗 GitHub: https://github.com/sarvadnyaKatode/SteamSAGE
 
 
 ---
